@@ -1,6 +1,6 @@
 # 交大程式安全 學習紀錄(Learnimg recorded)
 
-目前只有web其他待補上
+目前只有web其他待補上(Web only for now, others to be added.)
 
 ```
 .
